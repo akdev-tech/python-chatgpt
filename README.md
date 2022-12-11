@@ -4,6 +4,8 @@ No Selenium or another testing tools. Pure Python.
 
 Now performs login, handles captcha, sends message and prints ChatGPT answer.
 
+Disclaimer: just for dev purposes.
+
 ## Getting Started
 
 Create the account for ChatGPT (login by email and password).
