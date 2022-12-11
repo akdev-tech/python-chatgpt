@@ -32,7 +32,7 @@ To run in `debug` mode add the `-vvv` flag.
 * Occasional uncatched errors
 
 
-### Future plans
+## Future plans
 
 1. Make a module package
 2. Automatic solving captchas
