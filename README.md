@@ -16,7 +16,6 @@ $ cd python-chatgpt
 $ python3 -m venv env
 $ source env/bin/activate
 $ pip install -r requirements.txt
-
 ```
 
 
@@ -38,3 +37,4 @@ To run in `debug` mode add the `-vvv` flag.
 1. Make a module package
 2. Automatic solving captchas
 3. Consider ChatGPT rate-limits 
+4. Type annotations
