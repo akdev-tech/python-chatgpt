@@ -27,6 +27,8 @@ $ pip install -r requirements.txt
 $ python3 main.py -u <email> -p <password> -m "<message>"
 ```
 
+If it asks for captcha code, you can take a captcha image at `captcha.svg`. The captcha code is case sensitive!
+
 To run in `debug` mode add the `-vvv` flag.
 
 ## Known issues
