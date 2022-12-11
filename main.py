@@ -77,6 +77,7 @@ while not Auth.check_auth(session):
     auth_instance = Auth(args.username, args.password)
     auth_instance.perform_login(session)
 
+Auth.save_cookies(session)
 
 stream = Stream(session)
 response = stream.send_message(args.message)
