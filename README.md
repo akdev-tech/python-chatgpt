@@ -1,5 +1,9 @@
 # ChatGPT without browser with pure Python
 
+**UPDATE 12.12.2022**
+
+Now ChatGPT has Cloudflare protection.
+
 No Selenium or another testing tools. Pure Python.
 
 Now performs login, handles captcha, sends message and prints ChatGPT answer.
